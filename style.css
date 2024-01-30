@@ -16,7 +16,7 @@
     justify-content: center;
 }
 .calculator{
-    background-color: rgba(21, 20, 20, 0.116);
+    background-color: rgba(172, 240, 250, 0.32);
     padding: 20px;
     border-radius: 10px;
 }
@@ -31,7 +31,8 @@
     color:black;
     box-shadow: -8px -8px 15px rgba(255,255,255,0.1),5px 5px 15px rgba(0,0,0,0.1);
     cursor: pointer;
-    font-size: 15px;
+    font-size: 20px;
+    font-weight: bolder;
 }
 .calculator form input:hover{
     box-shadow: -8px -8px 15px rgba(255,255,255,0.1),5px 5px 15px rgba(0,255,255,0.2);
